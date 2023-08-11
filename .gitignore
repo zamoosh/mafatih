@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+venv/
+media/
+node_modules/
+*pycache*
+*__pycache__*
+db.sqlite3
+*.pyc
+.editorconfig
+NUL
+*.code-workspacenode_modules
+
